@@ -1,5 +1,6 @@
 const API_URL = 'http://localhost:4000/api/product/add';
-const token = 'eyJhbGciOiJIUzI1NiJ9.YWRtaW4uZXJpZGFudXNAZ21haWwuY29tQWRtaW5AMTIz.RRCh_ziq4Qk5dO1_WF0VFs3NtjdSGBwG0vsjjGx_5T4';
+
+const token = '';  // add your token here
 
 import axios from 'axios';
 
